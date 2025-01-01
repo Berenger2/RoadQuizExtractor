@@ -25,6 +25,7 @@ Clonez ce projet :
 ```bash
 git clone https://github.com/Berenger2/RoadQuizExtractor.git
 cd RoadQuizExtractor
+cd app
 ```
 ---
 Installez les dépendances :
